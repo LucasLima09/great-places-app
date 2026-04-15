@@ -1,4 +1,4 @@
-# 🌍📷 Great Places - App de Localização e Câmera (Portfólio)
+# 🌍📷 Great Places - App de Localização e Câmera
 
 > **Nota:** Este é um projeto de estudo e portfólio desenvolvido para demonstrar conhecimentos práticos em **Flutter**, integração com recursos nativos do dispositivo e persistência de dados.
 
